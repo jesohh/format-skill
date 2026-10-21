@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="297mm" height="420mm" viewBox="0 0 297 420">
+  <!-- 普通海报 · 矢量源文件 (SVG master) — 改稿改此文件后重导出 .ai -->
+  <rect x="0" y="0" width="297" height="420" fill="#F4F1EA"/>
+  <rect x="10" y="10" width="277" height="400" fill="none" stroke="#161616" stroke-width="0.6"/>
+
+  <!-- 页眉 -->
+  <text x="22" y="34" font-family="Noto Sans CJK SC" font-size="8" letter-spacing="2" fill="#161616">日常 · ORDINARY DAYS</text>
+  <text x="275" y="34" font-family="Noto Sans CJK SC" font-size="8" letter-spacing="1" fill="#161616" text-anchor="end">NO.001</text>
+  <line x1="22" y1="42" x2="275" y2="42" stroke="#161616" stroke-width="0.4"/>
+
+  <!-- 几何构成 -->
+  <circle cx="198" cy="138" r="72" fill="#FF4D00"/>
+  <circle cx="94" cy="94" r="16" fill="#2E4BFF"/>
+  <line x1="26" y1="298" x2="271" y2="112" stroke="#161616" stroke-width="0.8"/>
+  <circle cx="198" cy="138" r="86" fill="none" stroke="#161616" stroke-width="0.4"/>
+
+  <!-- 主标题 -->
+  <text x="24" y="248" font-family="Noto Serif CJK SC" font-weight="bold" font-size="88" fill="#161616">日常</text>
+  <text x="27" y="278" font-family="Noto Sans CJK SC" font-weight="bold" font-size="14" letter-spacing="6" fill="#161616">ORDINARY DAYS</text>
+  <text x="27" y="298" font-family="Noto Sans CJK SC" font-size="10" fill="#555555">一幅普通的海报，过普通的日子。</text>
+
+  <!-- 元信息 -->
+  <text x="22" y="324" font-family="Noto Sans CJK SC" font-size="7.5" fill="#161616">格式 — AI 矢量</text>
+  <text x="148.5" y="324" font-family="Noto Sans CJK SC" font-size="7.5" fill="#161616" text-anchor="middle">源文件 — SVG</text>
+  <text x="275" y="324" font-family="Noto Sans CJK SC" font-size="7.5" fill="#161616" text-anchor="end">尺寸 — A3 297×420</text>
+
+  <!-- 底部天际线 -->
+  <g fill="#161616">
+    <rect x="10" y="368" width="26" height="42"/>
+    <rect x="40" y="352" width="18" height="58"/>
+    <rect x="62" y="376" width="30" height="34"/>
+    <rect x="96" y="344" width="20" height="66"/>
+    <rect x="120" y="362" width="34" height="48"/>
+    <rect x="158" y="354" width="16" height="56"/>
+    <rect x="178" y="370" width="28" height="40"/>
+    <rect x="210" y="348" width="22" height="62"/>
+    <rect x="236" y="364" width="30" height="46"/>
+    <rect x="270" y="356" width="17" height="54"/>
+  </g>
+  <rect x="120" y="362" width="34" height="48" fill="#FF4D00"/>
+  <rect x="210" y="348" width="22" height="62" fill="#2E4BFF"/>
+  <g fill="#F4F1EA">
+    <rect x="46" y="360" width="3" height="4"/><rect x="46" y="370" width="3" height="4"/>
+    <rect x="102" y="354" width="3" height="4"/><rect x="102" y="366" width="3" height="4"/>
+    <rect x="216" y="358" width="3" height="4"/><rect x="216" y="370" width="3" height="4"/>
+    <rect x="276" y="366" width="3" height="4"/>
+  </g>
+  <line x1="10" y1="410" x2="287" y2="410" stroke="#161616" stroke-width="0.6"/>
+</svg>
