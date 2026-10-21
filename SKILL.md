@@ -2,6 +2,8 @@
 
 用户点名要某种格式（PSD / AI / 印刷 PDF / PPTX / SVG / EPS），就**按那个格式的行业规范原生生成最终文件**，不拿一张扁平图糊弄后缀名。每个交付文件都保留可编辑源，**后续改稿直接改源文件**（改图层、改文字、改路径），不推倒重做。
 
+When the user names a format (PSD / AI / print PDF / PPTX / SVG / EPS), generate the final file **natively to that format's professional spec** — never a flat image with a renamed extension. Every deliverable is its own editable source file, so revisions edit it in place (layers, text, paths) instead of regenerating from scratch.
+
 ## 触发
 - 用户说「我要 X 格式的」「给我 PSD / AI 文件」「做成 PPT」等点名格式的话。
 - 用户点名品类（海报/横幅/名片/封面/PPT…）但没点名格式时：按 `references/specs.md` 规格库自动套规格＋推荐格式，用户点头或改。
